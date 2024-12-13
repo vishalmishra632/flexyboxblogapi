@@ -1,0 +1,63 @@
+# .NET Core build folders
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local History
+.localhistory/
+
+# Windows-specific files
+[Tt]humbs.db
+*.DS_Store
+[Dd]esktop.ini
+
+# Environment files
+*.Development.json
+appsettings.Development.json
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+*.nupkg
+
+# Others
+*.log
+*.tmp
+*.temp
